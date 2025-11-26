@@ -22,4 +22,3 @@ This project is a Jupyter Notebook that shows how to use linear regression to pr
 ## Output
 
 - Trains a linear regression model and reports accuracy metrics.
-
